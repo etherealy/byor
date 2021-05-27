@@ -1,6 +1,8 @@
 name,ring,quadrant,isNew,description  
-test,hold,techniques,TRUE,"test...."
-test,trial,techniques,TRUE,"test...."
-test,assess,techniques,TRUE,"test...."
-test,validated,techniques,TRUE,"test...."
-test,hold,principe fonctionnel,TRUE,"test...."
+test,hold,méthodologie,TRUE,"test...."  
+test,trial,méthodologie,TRUE,"test...."  
+test,assess,méthodologie,TRUE,"test...."  
+test,validated,méthodologie,TRUE,"test...."  
+test,hold,principe fonctionnel,TRUE,"test...."  
+test,hold,principe technique,TRUE,"test...."  
+test,hold,principe applicatif,TRUE,"test...."  
